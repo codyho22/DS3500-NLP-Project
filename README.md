@@ -1,6 +1,6 @@
 # NLP-project
 
-NLP Project for DS3500
+NLP Project for DS3500, worked in collaboration with Russell Welch
 
 # Objective
 
